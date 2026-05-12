@@ -1,3 +1,3 @@
-### 👋 Hey, moi c'est Bryan
+### 👋 Hey, i'm Bryan
 
-Passionné par l'intelligence artificielle, je m'intéresse particulièrement aux mécanismes profonds du Machine Learning et du Deep Learning. Mon focus porte sur la recherche, les LLMs et les problématiques de raisonnement et d'incertitude pour concevoir des systèmes capables de décider intelligemment.
+Passionate about AI, I am particularly interested in the inner workings of Machine Learning and Deep Learning. My focus is on research, LLMs, and reasoning and uncertainty challenges to design systems capable of making intelligent decisions.
